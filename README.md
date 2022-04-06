@@ -2,7 +2,7 @@
 
 |  Problem Statements  |  Java Solution  |  Python Solution  |  Difficulty  |  Tags  |
 |:---------------------|:---------------:|:-----------------:|:------------:|:------:|
-|  [1. Two Sum](https://leetcode.com/problems/two-sum/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1.py)  |  **Easy**  |  **Array, Hash Table**  |
+|  [1. Two Sum](https://leetcode.com/problems/two-sum/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/01.py)  |  **Easy**  |  **Array, Hash Table**  |
 |  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  |  [Java]()  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/Add%20Two%20Numbers.py)  |  **Medium**  |  **Linked List, Math**  |
 |  [35. Search Insert Positions](https://leetcode.com/problems/search-insert-position/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/35.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/35.py)  |  **Easy**  |  **Array**  |
 |  [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/58.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/Length%20of%20Last%20Word.py)  |  **Easy**  |  **String**  |
