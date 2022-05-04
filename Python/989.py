@@ -1,6 +1,5 @@
 class Solution:
     def addToArrayForm(self, num: List[int], k: int) -> List[int]:
-        s = int("".join(map(str, num)))
-        total = s + k
-        res = [int(x) for x in str(total)]
+        total = int("".join(map(str, num))) + k
+        res = list(map(int, str(total)))
         return res
