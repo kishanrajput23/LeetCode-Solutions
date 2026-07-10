@@ -1,20 +1,22 @@
 class Solution {
 public:
     int maxFreqSum(string s) {
-        map<char, int> mp;
+        vector<int> freq(26, 0);
+
+        for (char ch : s) {
+            freq[ch - 'a']++;
+        }
+
         int maxVowelFreq = 0;
         int maxConsonantFreq = 0;
 
-        for (auto i : s) {
-            mp[i]++;
-        }
+        for (int i = 0; i < 26; i++) {
+            char ch = 'a' + i;
 
-        for (auto i : mp) {
-            if (i.first == 'a' || i.first == 'e' || i.first == 'i' || i.first == 'o' || i.first == 'u' ) {
-                maxVowelFreq = max(maxVowelFreq, i.second);
-            }
-            else {
-                maxConsonantFreq = max(maxConsonantFreq, i.second);
+            if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
+                maxVowelFreq = max(maxVowelFreq, freq[i]);
+            } else {
+                maxConsonantFreq = max(maxConsonantFreq, freq[i]);
             }
         }
 
