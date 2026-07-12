@@ -58,12 +58,14 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -79,10 +81,15 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
