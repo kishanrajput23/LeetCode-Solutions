@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Sliding Window
 |  |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
