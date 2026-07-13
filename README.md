@@ -92,4 +92,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
