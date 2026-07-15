@@ -115,4 +115,12 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
