@@ -107,4 +107,12 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
