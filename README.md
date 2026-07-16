@@ -82,6 +82,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,11 +94,13 @@
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -113,10 +116,12 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -126,4 +131,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
