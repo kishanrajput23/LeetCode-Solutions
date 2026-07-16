@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -128,13 +129,19 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
