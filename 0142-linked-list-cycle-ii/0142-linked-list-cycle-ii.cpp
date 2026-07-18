@@ -1,46 +1,40 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {}
- * };
- */
 class Solution {
 public:
-    ListNode* floydDetectCycle(ListNode* &head) {
+
+    ListNode* floydDetectCycle(ListNode* head) {
+
         ListNode* slow = head;
         ListNode* fast = head;
 
-        while (slow != NULL && fast != NULL) {
-            fast = fast->next;
-            if (fast != NULL) {
-                fast = fast->next;
-            }
+        while (fast != nullptr && fast->next != nullptr) {
+
             slow = slow->next;
+            fast = fast->next->next;
 
-            if (slow == fast) {
+            if (slow == fast)
                 return slow;
-            }
-        }
-        return NULL;
-    }
-    ListNode *detectCycle(ListNode *head) {
-        if (head == NULL || head->next == NULL) {
-            return NULL;
         }
 
-        ListNode* intersection = floydDetectCycle(head);
-        if (intersection == NULL) {
-            return NULL;
-        }
+        return nullptr;
+    }
+
+    ListNode* detectCycle(ListNode* head) {
+
+        if (head == nullptr)
+            return nullptr;
+
+        ListNode* meetingPoint = floydDetectCycle(head);
+
+        if (meetingPoint == nullptr)
+            return nullptr;
 
         ListNode* slow = head;
 
-        while (intersection != slow) {
-            intersection = intersection->next;
+        while (slow != meetingPoint) {
             slow = slow->next;
+            meetingPoint = meetingPoint->next;
         }
+
         return slow;
     }
 };
