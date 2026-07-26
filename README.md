@@ -83,6 +83,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -100,6 +101,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -128,6 +130,7 @@
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3516-find-closest-person](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
