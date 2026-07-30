@@ -71,6 +71,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3516-find-closest-person](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -257,4 +259,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
