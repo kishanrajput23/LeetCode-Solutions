@@ -1,55 +1,52 @@
 class Solution {
 public:
 
-    // Store inorder traversal
-    void inorder(TreeNode* root, vector<int>& nums) {
+    TreeNode* prev = nullptr;
+
+    int currCount = 0;
+    int maxCount = 0;
+
+    vector<int> ans;
+
+    void inorder(TreeNode* root) {
 
         if (root == nullptr) {
             return;
         }
 
-        inorder(root->left, nums);
+        inorder(root->left);
 
-        nums.push_back(root->val);
+        // Current value is same as previous value
+        if (prev && prev->val == root->val) {
+            currCount++;
+        }
+        else {
+            currCount = 1;
+        }
 
-        inorder(root->right, nums);
+        // Found a better frequency
+        if (currCount > maxCount) {
+
+            maxCount = currCount;
+
+            ans.clear();
+            ans.push_back(root->val);
+        }
+
+        // Another mode found
+        else if (currCount == maxCount) {
+
+            ans.push_back(root->val);
+        }
+
+        prev = root;
+
+        inorder(root->right);
     }
 
     vector<int> findMode(TreeNode* root) {
 
-        vector<int> nums;
-        inorder(root, nums);
-
-        vector<int> ans;
-
-        int currCount = 1;
-        int maxCount = 1;
-
-        ans.push_back(nums[0]);
-
-        for (int i = 1; i < nums.size(); i++) {
-
-            if (nums[i] == nums[i - 1]) {
-                currCount++;
-            }
-            else {
-                currCount = 1;
-            }
-
-            if (currCount > maxCount) {
-
-                maxCount = currCount;
-
-                ans.clear();
-                ans.push_back(nums[i]);
-            }
-            else if (currCount == maxCount) {
-
-                if (ans.empty() || ans.back() != nums[i]) {
-                    ans.push_back(nums[i]);
-                }
-            }
-        }
+        inorder(root);
 
         return ans;
     }
