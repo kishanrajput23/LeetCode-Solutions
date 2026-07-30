@@ -205,6 +205,7 @@
 | [0112-path-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -218,6 +219,7 @@
 | [0112-path-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
@@ -233,6 +235,7 @@
 | [0112-path-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -250,6 +253,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
