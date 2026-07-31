@@ -1,26 +1,24 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        int ans = 0;
-        int keys = 8;
+        int result = 0;
 
-        int n = word.size();
+        unordered_map<int, int> mp;
 
-        if (n <= keys) {
-            return n;
-        }
-        else {
-            ans += 8;
-            int round = 2;
-            for (int i=keys+1; i<=n; i++) {
-                ans += round;
+        int assign_key = 2;
 
-                if (i % keys == 0) {
-                    round++;
-                }
+        for (auto i : word) {
+            if (assign_key > 9) {
+                assign_key = 2;
             }
+
+            mp[assign_key]++;
+
+            result += mp[assign_key]; 
+
+            assign_key++;
         }
 
-        return ans;
+        return result;
     }
 };
