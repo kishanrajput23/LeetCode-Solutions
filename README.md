@@ -99,6 +99,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+- [0027-remove-element](0027-remove-element/)
 ## Sliding Window
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+- [0027-remove-element](0027-remove-element/)
 ## Enumeration
 |  |
 | ------- |
