@@ -138,7 +138,6 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0704-binary-search) |
-| [0069-sqrtx](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0069-sqrtx) |
 ## Math
 |  |
 | ------- |
@@ -152,7 +151,6 @@
 | [3536-maximum-product-of-two-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
-| [0069-sqrtx](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0069-sqrtx) |
 ## Number Theory
 |  |
 | ------- |
