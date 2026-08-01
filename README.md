@@ -100,6 +100,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [0075-sort-colors](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0075-sort-colors) |
+| [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0486-predict-the-winner) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [0069-sqrtx](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0069-sqrtx) |
+| [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -282,4 +285,14 @@
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0486-predict-the-winner) |
+
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
