@@ -182,6 +182,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3498-reverse-degree-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3541-find-most-frequent-vowel-and-consonant) |
+| [3110-score-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3110-score-of-a-string) |
 ## Counting
 |  |
 | ------- |
