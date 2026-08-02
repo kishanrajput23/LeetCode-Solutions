@@ -295,4 +295,9 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0486-predict-the-winner) |
+
+## Uncategorized
+|  |
+| ------- |
+| [2703-return-length-of-arguments-passed](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/2703-return-length-of-arguments-passed) |
 <!---LeetCode Topics End-->
