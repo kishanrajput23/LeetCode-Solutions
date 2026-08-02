@@ -1,305 +1,407 @@
-# LeetCode Solutions🔥
+<h1 align="center">🚀 LeetCode Solutions</h1>
 
-|  Problem Statements  |  Java Solution  |  Python Solution  |  Difficulty  |
-|:---------------------|:---------------:|:-----------------:|:------------:|
-|  [1. Two Sum](https://leetcode.com/problems/two-sum/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/01.py)  |  **Easy**  |
-|  [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  |  Java  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/Add%20Two%20Numbers.py)  |  **Medium**  |
-|  [27. Remove Element](https://leetcode.com/problems/remove-element/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/27.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/27.py)  |  **Easy**  |
-|  [31. Next Permutation](https://leetcode.com/problems/next-permutation)  |  Java  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/31.py)  |  **Medium**  |
-|  [35. Search Insert Positions](https://leetcode.com/problems/search-insert-position/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/35.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/35.py)  |  **Easy**  |
-|  [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/58.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/Length%20of%20Last%20Word.py)  |  **Easy**  |
-|  [66. Plus One](https://leetcode.com/problems/plus-one)  |  Java  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/66.py)  |  **Easy**  |
-|  [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)  |  Java  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/88.py)  |  **Easy**  |
-|  [136. Single Number](https://leetcode.com/problems/single-number/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/136.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/136.py)  |  **Easy**  |
-|  [169. Majority Element](https://leetcode.com/problems/majority-element)  |  Java  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/169.py)  |  **Easy**  |
-|  [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)  |  Java  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/217.py)  |  **Easy**  |
-|  [268. Missing Number](https://leetcode.com/problems/missing-number/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/268.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/268.py)  |  **Easy**  |
-|  [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)  |  Java  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/347.py)  |  **Medium**  |
-|  [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/349.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/349.py)  |  **Easy**  |
-|  [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/832.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/832.py)  |  **Easy**  |
-|  [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  |  Java  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/844.py)  |  **Easy**  |
-|  [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/905.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/905.py)  |  **Easy**  |
-|  [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1071.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1071.py)  |  **Easy**  |
-|  [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1281.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1281.py)  |  **Easy**  |
-|  [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1295.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1295.py)  |  **Easy**  |
-|  [1313. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1313.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1313.py)  |  **Easy**  |
-|  [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1365.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1365.py)  |  **Easy**  |
-|  [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1389.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1389.py)  |  **Easy**  |
-|  [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1431.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1431.py)  |  **Easy**  |
-|  [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1470.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1470.py)  |  **Easy**  |
-|  [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1480.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1480.py)  |  **Easy**  |
-|  [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1512.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1512.py)  |  **Easy**  |
-|  [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1528.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1528.py)  |  **Easy**  |
-|  [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1662.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1662.py)  |  **Easy**  |
-|  [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1672.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1672.py)  |  **Easy**  |
-|  [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1684.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1684.py)  |  **Easy**  |
-|  [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1720.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1720.py)  |  **Easy**  |
-|  [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1773.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1773.py)  |  **Easy**  |
-|  [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1832.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1832.py)  |  **Easy**  |
-|  [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1913.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1913.py)  |  **Easy**  |
-|  [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1920.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1920.py)  |  **Easy**  |
-|  [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/1929.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/1929.py)  |  **Easy**  |
-|  [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/2011.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/2011.py)  |  **Easy**  |
-|  [2085. Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)  |  Java  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/2085.py)  |  **Easy**  |
-|  [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/2089.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/2089.py)  |  **Easy**  |
-|  [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/2108.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/2108.py)  |  **Easy**  |
-|  [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/2114.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/2114.py)  |  **Easy**  |
-|  [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/2154.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/2154.py)  |  **Easy**  |
-|  [2176. Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/2176.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/2176.py)  |  **Easy**  |
-|  [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)  |  [Java](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Java/2185.java)  |  [Python](https://github.com/kishanrajput23/LeetCode-Solutions/blob/main/Python/2185.py)  |  **Easy**  |
+<p align="center">
+  A curated collection of my accepted <strong>LeetCode</strong> solutions, automatically synced to GitHub using my custom-built Chrome extension <strong>CodeHub Sync</strong>.
+</p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/kishanrajput23/">
+    <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Language" />
+  <img src="https://img.shields.io/badge/Automation-CodeHub%20Sync-success?style=for-the-badge" alt="Automation" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/kishanrajput23/LeetCode-Problem-Solutions?style=flat-square" alt="Repo Size" />
+  <img src="https://img.shields.io/github/last-commit/kishanrajput23/LeetCode-Problem-Solutions?style=flat-square" alt="Last Commit" />
+  <img src="https://img.shields.io/github/stars/kishanrajput23/LeetCode-Problem-Solutions?style=flat-square" alt="Stars" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kishanrajput23.LeetCode-Problem-Solutions" alt="Visitors" />
+</p>
 
+---
 
+## 📖 About
+
+This repository contains my accepted solutions to **LeetCode** coding problems.
+
+Every solution is **automatically committed** using my Chrome extension **CodeHub Sync**, making this repository a continuously updated archive of my coding interview preparation and Data Structures & Algorithms practice.
+
+---
+
+## 📂 Repository Structure
+
+Each problem gets its own numbered folder inside `Solutions/`, named `XXXX-problem-title`.
+
+```text
+LeetCode-Solutions/
+│
+├── Solutions/
+│   ├── Java/                          # Java solutions
+│   ├── Python/                        # Python solutions
+│   │
+│   ├── 0003-longest-substring-without-repeating-characters/
+│   │   ├── README.md
+│   │   └── 0003-longest-substring-without-repeating-characters.cpp
+│   │
+│   ├── 0007-reverse-integer/
+│   │   ├── README.md
+│   │   └── 0007-reverse-integer.cpp
+│   │
+│   └── ...                            # more numbered problem folders
+│
+├── README.md
+└── stats.json
+```
+
+Each problem directory contains:
+
+- 📄 Problem description
+- 💻 Accepted solution
+- 🏷️ Problem metadata
+
+---
+
+## ⚙️ Automation Workflow
+
+```text
+Solve Problem on LeetCode
+            │
+            ▼
+Accepted Submission
+            │
+            ▼
+CodeHub Sync Chrome Extension
+            │
+            ▼
+Extracts:
+• Problem Title
+• Description
+• Difficulty
+• Tags
+• Accepted Code
+            │
+            ▼
+Creates Folder Structure
+            │
+            ▼
+Commits & Pushes to GitHub
+```
+
+No manual uploads required.
+
+---
+
+## 🛠️ Tech Stack
+
+- JavaScript
+- Chrome Extension APIs
+- GitHub REST API
+- LeetCode
+- Git
+
+---
+
+## ✨ Features
+
+- ✅ Automatic GitHub synchronization
+- ✅ Organized topic-wise repository
+- ✅ Problem description included
+- ✅ Accepted solutions only
+- ✅ Clean folder hierarchy
+- ✅ Continuous updates
+
+---
+
+## 🔗 Related Project
+
+This repository is powered by my Chrome extension:
+
+### **CodeHub Sync**
+
+Automatically syncs accepted coding solutions from platforms like **LeetCode**, **GeeksforGeeks**, and **HackerRank** directly to GitHub.
+
+👉 **Repository:** https://github.com/kishanrajput23/codehub-sync
+
+---
+
+## 🎯 Purpose
+
+This repository helps me:
+
+- Track my coding journey
+- Maintain consistency
+- Build a searchable solution archive
+- Prepare for technical interviews
+- Showcase problem-solving skills
+
+---
+
+## 🙋‍♂️ Author
+
+**Kishan Kumar Rai**
+
+- GitHub: https://github.com/kishanrajput23
+- LeetCode: https://leetcode.com/u/kishanrajput23/
+
+---
+
+<div align="center">
+
+⭐ If you found this repository useful, consider giving it a star!
+
+Made with ❤️ using **CodeHub Sync**
+
+</div>
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
 |  |
 | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0013-roman-to-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
-| [0141-linked-list-cycle](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
-| [0146-lru-cache](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0146-lru-cache) |
-| [0160-intersection-of-two-linked-lists](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
-| [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
-| [1331-rank-transform-of-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
-| [3541-find-most-frequent-vowel-and-consonant](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
-| [3945-digit-frequency-score](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/3945-digit-frequency-score) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0160-intersection-of-two-linked-lists) |
+| [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0567-permutation-in-string) |
+| [1331-rank-transform-of-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3541-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0013-roman-to-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
-| [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
-| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
-| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
-| [3498-reverse-degree-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
-| [3517-smallest-palindromic-rearrangement-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
-| [3541-find-most-frequent-vowel-and-consonant](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0013-roman-to-integer) |
+| [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0567-permutation-in-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3498-reverse-degree-of-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3517-smallest-palindromic-rearrangement-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
-| [3541-find-most-frequent-vowel-and-consonant](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3541-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0035-search-insert-position) |
-| [0628-maximum-product-of-three-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
-| [0643-maximum-average-subarray-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
-| [0704-binary-search](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0704-binary-search) |
-| [1260-shift-2d-grid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
-| [1331-rank-transform-of-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
-| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
-| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
-| [3898-find-the-degree-of-each-vertex](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
-| [0075-sort-colors](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0075-sort-colors) |
-| [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0486-predict-the-winner) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0035-search-insert-position) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0704-binary-search) |
+| [1260-shift-2d-grid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1260-shift-2d-grid) |
+| [1331-rank-transform-of-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1464-maximum-product-of-two-elements-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1979-find-greatest-common-divisor-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3867-sum-of-gcd-of-formed-pairs) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3898-find-the-degree-of-each-vertex) |
+| [0075-sort-colors](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0075-sort-colors) |
+| [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
 ## Sliding Window
 |  |
 | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
-| [0643-maximum-average-subarray-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
-| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
 |  |
 | ------- |
-| [0628-maximum-product-of-three-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
-| [1331-rank-transform-of-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
-| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
-| [3517-smallest-palindromic-rearrangement-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
-| [3536-maximum-product-of-two-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
-| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
-| [0075-sort-colors](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0628-maximum-product-of-three-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3517-smallest-palindromic-rearrangement-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3536-maximum-product-of-two-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3867-sum-of-gcd-of-formed-pairs) |
+| [0075-sort-colors](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0141-linked-list-cycle](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
-| [0160-intersection-of-two-linked-lists](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
-| [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
-| [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
-| [0876-middle-of-the-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
-| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
-| [0075-sort-colors](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0075-sort-colors) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0876-middle-of-the-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3867-sum-of-gcd-of-formed-pairs) |
+| [0075-sort-colors](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0075-sort-colors) |
 ## Enumeration
 |  |
 | ------- |
-| [1291-sequential-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+| [1291-sequential-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1291-sequential-digits) |
 ## Binary Search
 |  |
 | ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0035-search-insert-position) |
-| [0704-binary-search](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0704-binary-search) |
-| [0069-sqrtx](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0069-sqrtx) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0704-binary-search) |
+| [0069-sqrtx](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0069-sqrtx) |
 ## Math
 |  |
 | ------- |
-| [0007-reverse-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0007-reverse-integer) |
-| [0009-palindrome-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0009-palindrome-number) |
-| [0013-roman-to-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
-| [0628-maximum-product-of-three-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
-| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
-| [3516-find-closest-person](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3516-find-closest-person) |
-| [3536-maximum-product-of-two-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
-| [3658-gcd-of-odd-and-even-sums](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
-| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
-| [0069-sqrtx](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0069-sqrtx) |
-| [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0486-predict-the-winner) |
-| [3945-digit-frequency-score](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/3945-digit-frequency-score) |
+| [0007-reverse-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0013-roman-to-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0628-maximum-product-of-three-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3516-find-closest-person](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3536-maximum-product-of-two-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3867-sum-of-gcd-of-formed-pairs) |
+| [0069-sqrtx](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0069-sqrtx) |
+| [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
+| [3945-digit-frequency-score](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3945-digit-frequency-score) |
 ## Number Theory
 |  |
 | ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
-| [3658-gcd-of-odd-and-even-sums](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
-| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0141-linked-list-cycle](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
-| [0146-lru-cache](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0146-lru-cache) |
-| [0160-intersection-of-two-linked-lists](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
-| [0206-reverse-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
-| [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
-| [0876-middle-of-the-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
-| [0206-reverse-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
-| [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
-| [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0486-predict-the-winner) |
+| [0206-reverse-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
-| [1260-shift-2d-grid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
-| [3498-reverse-degree-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
-| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [1260-shift-2d-grid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1260-shift-2d-grid) |
+| [3498-reverse-degree-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3498-reverse-degree-of-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
-| [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
-| [0146-lru-cache](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0146-lru-cache](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
-| [0146-lru-cache](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0146-lru-cache](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0146-lru-cache) |
 ## Graph Theory
 |  |
 | ------- |
-| [3898-find-the-degree-of-each-vertex](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
 | ------- |
-| [1260-shift-2d-grid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
-| [3898-find-the-degree-of-each-vertex](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [1260-shift-2d-grid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1260-shift-2d-grid) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3898-find-the-degree-of-each-vertex) |
 ## Tree
 |  |
 | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
-| [0098-validate-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
-| [0102-binary-tree-level-order-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0107-binary-tree-level-order-traversal-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
-| [0110-balanced-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
-| [0112-path-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0112-path-sum) |
-| [0199-binary-tree-right-side-view](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
-| [0501-find-mode-in-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
-| [0543-diameter-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
-| [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
-| [0700-search-in-a-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0098-validate-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0104-maximum-depth-of-binary-tree) |
+| [0107-binary-tree-level-order-traversal-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0107-binary-tree-level-order-traversal-ii) |
+| [0110-balanced-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
-| [0098-validate-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0110-balanced-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
-| [0112-path-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0112-path-sum) |
-| [0199-binary-tree-right-side-view](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
-| [0501-find-mode-in-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
-| [0543-diameter-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
-| [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
-| [0098-validate-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
-| [0102-binary-tree-level-order-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0107-binary-tree-level-order-traversal-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
-| [0110-balanced-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
-| [0112-path-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0112-path-sum) |
-| [0199-binary-tree-right-side-view](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
-| [0501-find-mode-in-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
-| [0543-diameter-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
-| [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
-| [0700-search-in-a-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0098-validate-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0104-maximum-depth-of-binary-tree) |
+| [0107-binary-tree-level-order-traversal-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0107-binary-tree-level-order-traversal-ii) |
+| [0110-balanced-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
-| [0102-binary-tree-level-order-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0107-binary-tree-level-order-traversal-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
-| [0112-path-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0112-path-sum) |
-| [0199-binary-tree-right-side-view](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
-| [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0104-maximum-depth-of-binary-tree) |
+| [0107-binary-tree-level-order-traversal-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0199-binary-tree-right-side-view) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0662-maximum-width-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
-| [0098-validate-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
-| [0501-find-mode-in-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
-| [0700-search-in-a-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0098-validate-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0501-find-mode-in-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0700-search-in-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
-| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
-| [3517-smallest-palindromic-rearrangement-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
-| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3016-minimum-number-of-pushes-to-type-word-ii) |
 
 ## Dynamic Programming
 |  |
 | ------- |
-| [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0486-predict-the-winner) |
+| [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
 
 ## Game Theory
 |  |
 | ------- |
-| [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0486-predict-the-winner) |
+| [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
 
 ## Uncategorized
 |  |
 | ------- |
-| [2703-return-length-of-arguments-passed](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/2703-return-length-of-arguments-passed) |
+| [2703-return-length-of-arguments-passed](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2703-return-length-of-arguments-passed) |
 <!---LeetCode Topics End-->
