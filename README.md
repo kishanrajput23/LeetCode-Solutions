@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/kishanrajput23/">
+  <a href="https://leetcode.com/u/kishan_rajput23/">
     <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Language" />
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/github/repo-size/kishanrajput23/LeetCode-Solutions?style=flat-square" alt="Repo Size" />
   <img src="https://img.shields.io/github/last-commit/kishanrajput23/LeetCode-Solutions?style=flat-square" alt="Last Commit" />
   <img src="https://img.shields.io/github/stars/kishanrajput23/LeetCode-Solutions?style=flat-square" alt="Stars" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kishanrajput23.LeetCode-Problem-Solutions" alt="Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kishanrajput23.LeetCode-Solutions" alt="Visitors" />
 </p>
 
 ---
