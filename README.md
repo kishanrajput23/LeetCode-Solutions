@@ -67,6 +67,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [0069-sqrtx](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/0486-predict-the-winner) |
+| [3945-digit-frequency-score](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/3945-digit-frequency-score) |
 ## Number Theory
 |  |
 | ------- |
