@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/kishanrajput23/LeetCode-Problem-Solutions?style=flat-square" alt="Repo Size" />
-  <img src="https://img.shields.io/github/last-commit/kishanrajput23/LeetCode-Problem-Solutions?style=flat-square" alt="Last Commit" />
-  <img src="https://img.shields.io/github/stars/kishanrajput23/LeetCode-Problem-Solutions?style=flat-square" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/kishanrajput23/LeetCode-Solutions?style=flat-square" alt="Repo Size" />
+  <img src="https://img.shields.io/github/last-commit/kishanrajput23/LeetCode-Solutions?style=flat-square" alt="Last Commit" />
+  <img src="https://img.shields.io/github/stars/kishanrajput23/LeetCode-Solutions?style=flat-square" alt="Stars" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kishanrajput23.LeetCode-Problem-Solutions" alt="Visitors" />
 </p>
 
