@@ -205,6 +205,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3898-find-the-degree-of-each-vertex](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3898-find-the-degree-of-each-vertex) |
 | [0075-sort-colors](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0075-sort-colors) |
 | [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0877-stone-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -263,6 +264,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0069-sqrtx](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
 | [3945-digit-frequency-score](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3945-digit-frequency-score) |
+| [0877-stone-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0877-stone-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -395,11 +397,13 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0877-stone-game) |
 
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0877-stone-game) |
 
 ## Uncategorized
 |  |
