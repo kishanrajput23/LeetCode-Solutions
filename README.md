@@ -206,6 +206,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0075-sort-colors](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0075-sort-colors) |
 | [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -265,6 +266,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
 | [3945-digit-frequency-score](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3945-digit-frequency-score) |
 | [0877-stone-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -398,15 +400,27 @@ Made with ❤️ using **CodeHub Sync**
 | ------- |
 | [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
 
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
 
 ## Uncategorized
 |  |
 | ------- |
 | [2703-return-length-of-arguments-passed](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2703-return-length-of-arguments-passed) |
+
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
+
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
