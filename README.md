@@ -170,6 +170,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3541-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3945-digit-frequency-score) |
+| [3731-find-missing-elements](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -225,6 +227,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3536-maximum-product-of-two-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3867-sum-of-gcd-of-formed-pairs) |
 | [0075-sort-colors](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0075-sort-colors) |
+| [3731-find-missing-elements](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
