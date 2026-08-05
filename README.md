@@ -316,6 +316,7 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3898-find-the-degree-of-each-vertex) |
+| [3310-remove-methods-from-project](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -351,6 +352,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0501-find-mode-in-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0662-maximum-width-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -378,6 +380,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0112-path-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0662-maximum-width-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
