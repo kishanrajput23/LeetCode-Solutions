@@ -244,6 +244,7 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -270,6 +271,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3945-digit-frequency-score](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3945-digit-frequency-score) |
 | [0877-stone-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
