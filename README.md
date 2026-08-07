@@ -291,6 +291,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0206-reverse-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0876-middle-of-the-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
