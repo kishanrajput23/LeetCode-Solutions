@@ -424,6 +424,7 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [2703-return-length-of-arguments-passed](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2703-return-length-of-arguments-passed) |
+| [2879-display-the-first-three-rows](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2879-display-the-first-three-rows) |
 
 ## Minimax
 |  |
