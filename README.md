@@ -212,6 +212,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3925-concatenate-array-with-reverse) |
+| [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -275,6 +276,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0877-stone-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3345-smallest-divisible-digit-product-i) |
+| [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -414,6 +416,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
+| [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 
 ## Game Theory
 |  |
@@ -421,6 +424,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
+| [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 
 ## Uncategorized
 |  |
@@ -433,9 +437,16 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
+| [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
+| [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
+
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
