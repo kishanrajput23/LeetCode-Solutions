@@ -281,6 +281,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3345-smallest-divisible-digit-product-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3345-smallest-divisible-digit-product-i) |
 | [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1510-stone-game-iv) |
+| [2769-find-the-maximum-achievable-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2769-find-the-maximum-achievable-number) |
 ## Number Theory
 |  |
 | ------- |
