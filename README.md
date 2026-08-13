@@ -282,6 +282,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1510-stone-game-iv) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2769-find-the-maximum-achievable-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3783-mirror-distance-of-an-integer) |
 ## Number Theory
 |  |
 | ------- |
