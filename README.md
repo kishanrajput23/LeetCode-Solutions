@@ -217,6 +217,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3925-concatenate-array-with-reverse](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3925-concatenate-array-with-reverse) |
 | [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |
 | ------- |
@@ -472,4 +473,9 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1510-stone-game-iv) |
+
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
