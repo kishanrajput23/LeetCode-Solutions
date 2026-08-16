@@ -194,6 +194,7 @@ Made with ❤️ using **CodeHub Sync**
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3541-find-most-frequent-vowel-and-consonant) |
+| [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
 ## Array
 |  |
 | ------- |
@@ -218,6 +219,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -287,6 +289,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1510-stone-game-iv](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1510-stone-game-iv) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2769-find-the-maximum-achievable-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3783-mirror-distance-of-an-integer) |
+| [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
 ## Number Theory
 |  |
 | ------- |
@@ -419,6 +422,7 @@ Made with ❤️ using **CodeHub Sync**
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
 
 ## Dynamic Programming
 |  |
@@ -437,6 +441,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
 
 ## Uncategorized
 |  |
@@ -451,6 +456,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
 
 ## Zero-Sum Game
 |  |
@@ -458,6 +464,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
 
 ## Prefix Sum
 |  |
@@ -468,6 +475,7 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
 
 ## Sprague–Grundy Theorem
 |  |
