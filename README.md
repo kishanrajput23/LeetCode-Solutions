@@ -222,6 +222,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
 | [3668-restore-finishing-order](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3668-restore-finishing-order) |
+| [1920-build-array-from-permutation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1920-build-array-from-permutation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -323,6 +324,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3498-reverse-degree-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3925-concatenate-array-with-reverse) |
+| [1920-build-array-from-permutation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1920-build-array-from-permutation) |
 ## Stack
 |  |
 | ------- |
