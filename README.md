@@ -175,6 +175,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3731-find-missing-elements](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3731-find-missing-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3090-maximum-length-substring-with-two-occurrences) |
+| [3668-restore-finishing-order](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3668-restore-finishing-order) |
 ## String
 |  |
 | ------- |
@@ -220,6 +221,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
+| [3668-restore-finishing-order](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3668-restore-finishing-order) |
 ## Sliding Window
 |  |
 | ------- |
