@@ -176,6 +176,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3090-maximum-length-substring-with-two-occurrences) |
 | [3668-restore-finishing-order](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3668-restore-finishing-order) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
@@ -223,6 +224,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
 | [3668-restore-finishing-order](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3668-restore-finishing-order) |
 | [1920-build-array-from-permutation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1920-build-array-from-permutation) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
 |  |
 | ------- |
