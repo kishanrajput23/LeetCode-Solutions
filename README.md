@@ -177,6 +177,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3090-maximum-length-substring-with-two-occurrences) |
 | [3668-restore-finishing-order](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3668-restore-finishing-order) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3471-find-the-largest-almost-missing-integer) |
+| [1386-cinema-seat-allocation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1386-cinema-seat-allocation) |
 ## String
 |  |
 | ------- |
@@ -225,6 +226,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3668-restore-finishing-order](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3668-restore-finishing-order) |
 | [1920-build-array-from-permutation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1920-build-array-from-permutation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3471-find-the-largest-almost-missing-integer) |
+| [1386-cinema-seat-allocation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1386-cinema-seat-allocation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -429,6 +431,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
+| [1386-cinema-seat-allocation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1386-cinema-seat-allocation) |
 
 ## Dynamic Programming
 |  |
@@ -492,4 +495,5 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [1386-cinema-seat-allocation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
