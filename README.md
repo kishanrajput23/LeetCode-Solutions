@@ -227,6 +227,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1920-build-array-from-permutation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1920-build-array-from-permutation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3471-find-the-largest-almost-missing-integer) |
 | [1386-cinema-seat-allocation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1386-cinema-seat-allocation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -329,6 +330,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3925-concatenate-array-with-reverse) |
 | [1920-build-array-from-permutation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1920-build-array-from-permutation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
 | ------- |
