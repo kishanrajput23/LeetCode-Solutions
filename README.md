@@ -192,6 +192,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3541-find-most-frequent-vowel-and-consonant) |
 | [3110-score-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3110-score-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3090-maximum-length-substring-with-two-occurrences) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2011-final-value-of-variable-after-performing-operations) |
 ## Counting
 |  |
 | ------- |
@@ -228,6 +229,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3471-find-the-largest-almost-missing-integer) |
 | [1386-cinema-seat-allocation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3069-distribute-elements-into-two-arrays-i) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2011-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -332,6 +334,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3925-concatenate-array-with-reverse](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3925-concatenate-array-with-reverse) |
 | [1920-build-array-from-permutation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1920-build-array-from-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3069-distribute-elements-into-two-arrays-i) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
 | ------- |
