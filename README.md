@@ -301,6 +301,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3783-mirror-distance-of-an-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3783-mirror-distance-of-an-integer) |
 | [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2894-divisible-and-non-divisible-sums-difference) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
 |  |
 | ------- |
