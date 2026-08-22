@@ -6,9 +6,9 @@ public:
         int prod = 1;
 
         while (num > 0) {
-            sum += n % 10;
+            sum += num % 10;
 
-            prod *= n % 10;
+            prod *= num % 10;
 
             num /= 10;
         }
