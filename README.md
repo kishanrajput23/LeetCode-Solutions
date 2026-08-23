@@ -193,6 +193,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3110-score-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3110-score-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3090-maximum-length-substring-with-two-occurrences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2942-find-words-containing-character) |
 ## Counting
 |  |
 | ------- |
@@ -230,6 +231,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1386-cinema-seat-allocation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3069-distribute-elements-into-two-arrays-i) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2942-find-words-containing-character) |
 ## Sliding Window
 |  |
 | ------- |
