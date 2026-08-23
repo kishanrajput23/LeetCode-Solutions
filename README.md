@@ -194,6 +194,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3090-maximum-length-substring-with-two-occurrences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2942-find-words-containing-character) |
+| [1927-sum-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1927-sum-game) |
 ## Counting
 |  |
 | ------- |
@@ -304,6 +305,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2894-divisible-and-non-divisible-sums-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3622-check-divisibility-by-digit-sum-and-product) |
+| [1927-sum-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1927-sum-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -441,6 +443,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
 | [1386-cinema-seat-allocation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1927-sum-game) |
 
 ## Dynamic Programming
 |  |
@@ -460,6 +463,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
+| [1927-sum-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1927-sum-game) |
 
 ## Uncategorized
 |  |
