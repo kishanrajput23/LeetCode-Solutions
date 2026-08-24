@@ -306,6 +306,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2894-divisible-and-non-divisible-sums-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3622-check-divisibility-by-digit-sum-and-product) |
 | [1927-sum-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1927-sum-game) |
+| [2469-convert-the-temperature](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2469-convert-the-temperature) |
 ## Number Theory
 |  |
 | ------- |
