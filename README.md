@@ -178,6 +178,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3668-restore-finishing-order](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3668-restore-finishing-order) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3471-find-the-largest-almost-missing-integer) |
 | [1386-cinema-seat-allocation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1386-cinema-seat-allocation) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3069-distribute-elements-into-two-arrays-i) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2942-find-words-containing-character) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
