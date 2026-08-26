@@ -196,6 +196,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2942-find-words-containing-character) |
 | [1927-sum-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Counting
 |  |
 | ------- |
@@ -244,6 +245,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3090-maximum-length-substring-with-two-occurrences) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sorting
 |  |
 | ------- |
