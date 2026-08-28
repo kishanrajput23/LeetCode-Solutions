@@ -197,6 +197,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2942-find-words-containing-character](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2942-find-words-containing-character) |
 | [1927-sum-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3838-weighted-word-mapping](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
@@ -237,6 +238,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2942-find-words-containing-character](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2942-find-words-containing-character) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3718-smallest-missing-multiple-of-k) |
 | [3701-compute-alternating-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -347,6 +349,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3069-distribute-elements-into-two-arrays-i) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2011-final-value-of-variable-after-performing-operations) |
 | [3701-compute-alternating-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
