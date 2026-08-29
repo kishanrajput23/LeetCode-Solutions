@@ -198,6 +198,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1927-sum-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3838-weighted-word-mapping](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3838-weighted-word-mapping) |
+| [1108-defanging-an-ip-address](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1108-defanging-an-ip-address) |
 ## Counting
 |  |
 | ------- |
