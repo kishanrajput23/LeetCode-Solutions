@@ -482,6 +482,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2879-display-the-first-three-rows](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2879-display-the-first-three-rows) |
 | [2884-modify-columns](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2884-modify-columns) |
 | [2888-reshape-data-concatenate](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2888-reshape-data-concatenate) |
+| [2881-create-a-new-column](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2881-create-a-new-column) |
 
 ## Minimax
 |  |
