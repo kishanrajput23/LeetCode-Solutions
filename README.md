@@ -240,6 +240,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3718-smallest-missing-multiple-of-k](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3718-smallest-missing-multiple-of-k) |
 | [3701-compute-alternating-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3838-weighted-word-mapping) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2091-removing-minimum-and-maximum-from-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -455,6 +456,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
 | [1386-cinema-seat-allocation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2091-removing-minimum-and-maximum-from-array) |
 
 ## Dynamic Programming
 |  |
