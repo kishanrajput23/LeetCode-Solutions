@@ -334,6 +334,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0876-middle-of-the-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0328-odd-even-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
