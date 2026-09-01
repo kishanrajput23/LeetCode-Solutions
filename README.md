@@ -241,6 +241,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3701-compute-alternating-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3838-weighted-word-mapping) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2091-removing-minimum-and-maximum-from-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1863-sum-of-all-subset-xor-totals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -280,6 +281,7 @@ Made with ❤️ using **CodeHub Sync**
 | ------- |
 | [1291-sequential-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3345-smallest-divisible-digit-product-i) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1863-sum-of-all-subset-xor-totals) |
 ## Binary Search
 |  |
 | ------- |
@@ -316,6 +318,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3622-check-divisibility-by-digit-sum-and-product) |
 | [1927-sum-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1927-sum-game) |
 | [2469-convert-the-temperature](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2469-convert-the-temperature) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1863-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
@@ -525,4 +528,15 @@ Made with ❤️ using **CodeHub Sync**
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [1386-cinema-seat-allocation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1386-cinema-seat-allocation) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1863-sum-of-all-subset-xor-totals) |
+
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1863-sum-of-all-subset-xor-totals) |
+
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
