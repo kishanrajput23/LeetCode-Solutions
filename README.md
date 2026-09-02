@@ -243,6 +243,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2091-removing-minimum-and-maximum-from-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1863-sum-of-all-subset-xor-totals) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3876-construct-uniform-parity-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -321,6 +322,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2469-convert-the-temperature](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2469-convert-the-temperature) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1863-sum-of-all-subset-xor-totals) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3876-construct-uniform-parity-array-ii) |
 ## Number Theory
 |  |
 | ------- |
