@@ -245,6 +245,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3875-construct-uniform-parity-array-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3904-smallest-stable-index-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -517,6 +518,7 @@ Made with ❤️ using **CodeHub Sync**
 | ------- |
 | [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3904-smallest-stable-index-ii) |
 
 ## Nim Game
 |  |
