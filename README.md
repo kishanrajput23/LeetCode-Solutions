@@ -246,6 +246,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3876-construct-uniform-parity-array-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3904-smallest-stable-index-ii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1431-kids-with-the-greatest-number-of-candies) |
 ## Sliding Window
 |  |
 | ------- |
