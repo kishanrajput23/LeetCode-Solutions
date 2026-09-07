@@ -205,6 +205,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3541-find-most-frequent-vowel-and-consonant) |
 | [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
+| [3467-transform-array-by-parity](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3467-transform-array-by-parity) |
 ## Array
 |  |
 | ------- |
@@ -247,6 +248,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3903-smallest-stable-index-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3904-smallest-stable-index-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1431-kids-with-the-greatest-number-of-candies) |
+| [3467-transform-array-by-parity](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3467-transform-array-by-parity) |
 ## Sliding Window
 |  |
 | ------- |
@@ -269,6 +271,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3867-sum-of-gcd-of-formed-pairs) |
 | [0075-sort-colors](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0075-sort-colors) |
 | [3731-find-missing-elements](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3731-find-missing-elements) |
+| [3467-transform-array-by-parity](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
