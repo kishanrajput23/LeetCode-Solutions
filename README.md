@@ -408,6 +408,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0543-diameter-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -422,6 +423,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0543-diameter-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0662-maximum-width-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3310-remove-methods-from-project) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -439,6 +441,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0543-diameter-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
