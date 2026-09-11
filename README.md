@@ -179,6 +179,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3471-find-the-largest-almost-missing-integer) |
 | [1386-cinema-seat-allocation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1386-cinema-seat-allocation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3718-smallest-missing-multiple-of-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -249,6 +250,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3904-smallest-stable-index-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3904-smallest-stable-index-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1431-kids-with-the-greatest-number-of-candies) |
 | [3467-transform-array-by-parity](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3467-transform-array-by-parity) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -290,6 +292,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1291-sequential-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3345-smallest-divisible-digit-product-i) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1863-sum-of-all-subset-xor-totals) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -356,6 +359,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0206-reverse-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
