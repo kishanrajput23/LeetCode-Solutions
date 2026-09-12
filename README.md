@@ -180,6 +180,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1386-cinema-seat-allocation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1386-cinema-seat-allocation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3718-smallest-missing-multiple-of-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3483-unique-3-digit-even-numbers) |
+| [1512-number-of-good-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3541-find-most-frequent-vowel-and-consonant) |
 | [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
 | [3467-transform-array-by-parity](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3467-transform-array-by-parity) |
+| [1512-number-of-good-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1512-number-of-good-pairs) |
 ## Array
 |  |
 | ------- |
@@ -252,6 +254,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3467-transform-array-by-parity](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3483-unique-3-digit-even-numbers) |
 | [1929-concatenation-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1929-concatenation-of-array) |
+| [1512-number-of-good-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1512-number-of-good-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -335,6 +338,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3876-construct-uniform-parity-array-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3876-construct-uniform-parity-array-ii) |
 | [3870-count-commas-in-range](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3871-count-commas-in-range-ii) |
+| [1512-number-of-good-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1512-number-of-good-pairs) |
 ## Number Theory
 |  |
 | ------- |
