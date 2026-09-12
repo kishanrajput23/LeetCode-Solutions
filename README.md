@@ -251,6 +251,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1431-kids-with-the-greatest-number-of-candies) |
 | [3467-transform-array-by-parity](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3483-unique-3-digit-even-numbers) |
+| [1929-concatenation-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1929-concatenation-of-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -372,6 +373,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2011-final-value-of-variable-after-performing-operations) |
 | [3701-compute-alternating-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3838-weighted-word-mapping) |
+| [1929-concatenation-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1929-concatenation-of-array) |
 ## Stack
 |  |
 | ------- |
