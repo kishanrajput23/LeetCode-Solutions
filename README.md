@@ -255,6 +255,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3483-unique-3-digit-even-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3483-unique-3-digit-even-numbers) |
 | [1929-concatenation-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1929-concatenation-of-array) |
 | [1512-number-of-good-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1512-number-of-good-pairs) |
+| [2574-left-and-right-sum-differences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2574-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -538,6 +539,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3904-smallest-stable-index-ii) |
+| [2574-left-and-right-sum-differences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2574-left-and-right-sum-differences) |
 
 ## Nim Game
 |  |
