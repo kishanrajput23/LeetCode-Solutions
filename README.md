@@ -258,6 +258,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1929-concatenation-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1929-concatenation-of-array) |
 | [1512-number-of-good-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1512-number-of-good-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2574-left-and-right-sum-differences) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -342,6 +343,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3870-count-commas-in-range](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3871-count-commas-in-range-ii) |
 | [1512-number-of-good-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1512-number-of-good-pairs) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Number Theory
 |  |
 | ------- |
