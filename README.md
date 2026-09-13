@@ -181,6 +181,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3718-smallest-missing-multiple-of-k](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3718-smallest-missing-multiple-of-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3483-unique-3-digit-even-numbers) |
 | [1512-number-of-good-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1512-number-of-good-pairs) |
+| [0771-jewels-and-stones](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
@@ -201,6 +202,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3838-weighted-word-mapping](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3838-weighted-word-mapping) |
 | [1108-defanging-an-ip-address](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1108-defanging-an-ip-address) |
+| [0771-jewels-and-stones](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0771-jewels-and-stones) |
 ## Counting
 |  |
 | ------- |
