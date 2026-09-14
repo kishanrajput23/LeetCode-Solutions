@@ -259,6 +259,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1512-number-of-good-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1512-number-of-good-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3300-minimum-element-after-replacement-with-digit-sum) |
+| [1672-richest-customer-wealth](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1672-richest-customer-wealth) |
 ## Sliding Window
 |  |
 | ------- |
@@ -407,6 +408,7 @@ Made with ❤️ using **CodeHub Sync**
 | ------- |
 | [1260-shift-2d-grid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1260-shift-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3898-find-the-degree-of-each-vertex) |
+| [1672-richest-customer-wealth](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1672-richest-customer-wealth) |
 ## Tree
 |  |
 | ------- |
