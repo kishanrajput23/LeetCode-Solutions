@@ -203,6 +203,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3838-weighted-word-mapping](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3838-weighted-word-mapping) |
 | [1108-defanging-an-ip-address](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1108-defanging-an-ip-address) |
 | [0771-jewels-and-stones](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0771-jewels-and-stones) |
+| [0005-longest-palindromic-substring](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0005-longest-palindromic-substring) |
 ## Counting
 |  |
 | ------- |
@@ -296,6 +297,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0876-middle-of-the-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3867-sum-of-gcd-of-formed-pairs) |
 | [0075-sort-colors](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0075-sort-colors) |
+| [0005-longest-palindromic-substring](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0005-longest-palindromic-substring) |
 ## Enumeration
 |  |
 | ------- |
@@ -506,6 +508,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1406-stone-game-iii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1510-stone-game-iv) |
+| [0005-longest-palindromic-substring](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0005-longest-palindromic-substring) |
 
 ## Game Theory
 |  |
@@ -583,4 +586,9 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0836-rectangle-overlap) |
+
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
