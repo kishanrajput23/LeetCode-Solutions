@@ -260,6 +260,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2574-left-and-right-sum-differences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3300-minimum-element-after-replacement-with-digit-sum) |
 | [1672-richest-customer-wealth](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1672-richest-customer-wealth) |
+| [1470-shuffle-the-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1470-shuffle-the-array) |
 ## Sliding Window
 |  |
 | ------- |
