@@ -347,12 +347,14 @@ Made with ❤️ using **CodeHub Sync**
 | [1512-number-of-good-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3300-minimum-element-after-replacement-with-digit-sum) |
 | [0836-rectangle-overlap](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0836-rectangle-overlap) |
+| [2413-smallest-even-multiple](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2413-smallest-even-multiple) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3867-sum-of-gcd-of-formed-pairs) |
+| [2413-smallest-even-multiple](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2413-smallest-even-multiple) |
 ## Linked List
 |  |
 | ------- |
