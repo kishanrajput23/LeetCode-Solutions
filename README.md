@@ -182,6 +182,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3483-unique-3-digit-even-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3483-unique-3-digit-even-numbers) |
 | [1512-number-of-good-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1512-number-of-good-pairs) |
 | [0771-jewels-and-stones](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0771-jewels-and-stones) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1684-count-the-number-of-consistent-strings) |
 ## String
 |  |
 | ------- |
@@ -204,6 +205,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1108-defanging-an-ip-address](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1108-defanging-an-ip-address) |
 | [0771-jewels-and-stones](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0771-jewels-and-stones) |
 | [0005-longest-palindromic-substring](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0005-longest-palindromic-substring) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1684-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
 | ------- |
@@ -212,6 +214,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2029-stone-game-ix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2029-stone-game-ix) |
 | [3467-transform-array-by-parity](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3467-transform-array-by-parity) |
 | [1512-number-of-good-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1684-count-the-number-of-consistent-strings) |
 ## Array
 |  |
 | ------- |
@@ -262,6 +265,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3300-minimum-element-after-replacement-with-digit-sum) |
 | [1672-richest-customer-wealth](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1672-richest-customer-wealth) |
 | [1470-shuffle-the-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1470-shuffle-the-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1684-count-the-number-of-consistent-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -571,6 +575,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [1386-cinema-seat-allocation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1386-cinema-seat-allocation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1863-sum-of-all-subset-xor-totals) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1684-count-the-number-of-consistent-strings) |
 
 ## Backtracking
 |  |
