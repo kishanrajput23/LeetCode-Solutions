@@ -206,6 +206,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0771-jewels-and-stones](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0771-jewels-and-stones) |
 | [0005-longest-palindromic-substring](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0005-longest-palindromic-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1684-count-the-number-of-consistent-strings) |
+| [3794-reverse-string-prefix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3794-reverse-string-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -302,6 +303,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3867-sum-of-gcd-of-formed-pairs) |
 | [0075-sort-colors](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0075-sort-colors) |
 | [0005-longest-palindromic-substring](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0005-longest-palindromic-substring) |
+| [3794-reverse-string-prefix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3794-reverse-string-prefix) |
 ## Enumeration
 |  |
 | ------- |
