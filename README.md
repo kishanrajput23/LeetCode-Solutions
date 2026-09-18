@@ -580,6 +580,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1386-cinema-seat-allocation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1386-cinema-seat-allocation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1863-sum-of-all-subset-xor-totals) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1684-count-the-number-of-consistent-strings) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2220-minimum-bit-flips-to-convert-number) |
 
 ## Backtracking
 |  |
