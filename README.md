@@ -358,6 +358,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0836-rectangle-overlap](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0836-rectangle-overlap) |
 | [2413-smallest-even-multiple](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2413-smallest-even-multiple) |
 | [2235-add-two-integers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2235-add-two-integers) |
+| [1486-xor-operation-in-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1486-xor-operation-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -581,6 +582,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1863-sum-of-all-subset-xor-totals) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1684-count-the-number-of-consistent-strings) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2220-minimum-bit-flips-to-convert-number) |
+| [1486-xor-operation-in-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1486-xor-operation-in-an-array) |
 
 ## Backtracking
 |  |
