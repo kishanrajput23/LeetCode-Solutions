@@ -268,6 +268,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1672-richest-customer-wealth](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1672-richest-customer-wealth) |
 | [1470-shuffle-the-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1470-shuffle-the-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1684-count-the-number-of-consistent-strings) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2373-largest-local-values-in-a-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -423,6 +424,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1260-shift-2d-grid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1260-shift-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3898-find-the-degree-of-each-vertex) |
 | [1672-richest-customer-wealth](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1672-richest-customer-wealth) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2373-largest-local-values-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
