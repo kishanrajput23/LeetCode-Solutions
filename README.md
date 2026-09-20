@@ -270,6 +270,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1684-count-the-number-of-consistent-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1684-count-the-number-of-consistent-strings) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2373-largest-local-values-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2824-count-pairs-whose-sum-is-less-than-target) |
+| [1720-decode-xored-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1720-decode-xored-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -589,6 +590,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1684-count-the-number-of-consistent-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1684-count-the-number-of-consistent-strings) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2220-minimum-bit-flips-to-convert-number) |
 | [1486-xor-operation-in-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1720-decode-xored-array) |
 
 ## Backtracking
 |  |
