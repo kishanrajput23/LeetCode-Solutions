@@ -184,6 +184,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0771-jewels-and-stones](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1684-count-the-number-of-consistent-strings) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3146-permutation-difference-between-two-strings) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -273,6 +274,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2373-largest-local-values-in-a-matrix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2373-largest-local-values-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2824-count-pairs-whose-sum-is-less-than-target) |
 | [1720-decode-xored-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1720-decode-xored-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -297,6 +299,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3731-find-missing-elements](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3731-find-missing-elements) |
 | [3467-transform-array-by-parity](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3467-transform-array-by-parity) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2824-count-pairs-whose-sum-is-less-than-target) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -508,6 +511,7 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3517-smallest-palindromic-rearrangement-i) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
 | ------- |
