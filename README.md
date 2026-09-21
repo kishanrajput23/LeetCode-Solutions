@@ -183,6 +183,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1512-number-of-good-pairs](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1512-number-of-good-pairs) |
 | [0771-jewels-and-stones](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1684-count-the-number-of-consistent-strings) |
+| [3146-permutation-difference-between-two-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3146-permutation-difference-between-two-strings) |
 ## String
 |  |
 | ------- |
@@ -208,6 +209,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1684-count-the-number-of-consistent-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1684-count-the-number-of-consistent-strings) |
 | [3794-reverse-string-prefix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3794-reverse-string-prefix) |
 | [1678-goal-parser-interpretation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1678-goal-parser-interpretation) |
+| [3146-permutation-difference-between-two-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3146-permutation-difference-between-two-strings) |
 ## Counting
 |  |
 | ------- |
