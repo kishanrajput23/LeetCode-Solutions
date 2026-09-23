@@ -211,6 +211,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3794-reverse-string-prefix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3794-reverse-string-prefix) |
 | [1678-goal-parser-interpretation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1678-goal-parser-interpretation) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3146-permutation-difference-between-two-strings) |
+| [1816-truncate-sentence](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1816-truncate-sentence) |
 ## Counting
 |  |
 | ------- |
@@ -276,6 +277,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1720-decode-xored-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1720-decode-xored-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2037-minimum-number-of-moves-to-seat-everyone) |
+| [1816-truncate-sentence](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1816-truncate-sentence) |
 ## Sliding Window
 |  |
 | ------- |
