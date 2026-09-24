@@ -278,6 +278,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2037-minimum-number-of-moves-to-seat-everyone) |
 | [1816-truncate-sentence](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1816-truncate-sentence) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sliding Window
 |  |
 | ------- |
@@ -374,6 +375,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2413-smallest-even-multiple](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2413-smallest-even-multiple) |
 | [2235-add-two-integers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2235-add-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1486-xor-operation-in-an-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Number Theory
 |  |
 | ------- |
