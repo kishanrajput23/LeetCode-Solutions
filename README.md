@@ -212,6 +212,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1678-goal-parser-interpretation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1678-goal-parser-interpretation) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3146-permutation-difference-between-two-strings) |
 | [1816-truncate-sentence](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1816-truncate-sentence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2114-maximum-number-of-words-found-in-sentences) |
 ## Counting
 |  |
 | ------- |
@@ -280,6 +281,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1816-truncate-sentence](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1816-truncate-sentence) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [1480-running-sum-of-1d-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1480-running-sum-of-1d-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2114-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
 |  |
 | ------- |
