@@ -279,6 +279,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2037-minimum-number-of-moves-to-seat-everyone) |
 | [1816-truncate-sentence](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1816-truncate-sentence) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [1480-running-sum-of-1d-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -583,6 +584,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3903-smallest-stable-index-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3904-smallest-stable-index-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2574-left-and-right-sum-differences) |
+| [1480-running-sum-of-1d-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1480-running-sum-of-1d-array) |
 
 ## Nim Game
 |  |
