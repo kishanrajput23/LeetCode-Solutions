@@ -185,6 +185,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1684-count-the-number-of-consistent-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1684-count-the-number-of-consistent-strings) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3146-permutation-difference-between-two-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -213,6 +214,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3146-permutation-difference-between-two-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3146-permutation-difference-between-two-strings) |
 | [1816-truncate-sentence](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2114-maximum-number-of-words-found-in-sentences) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -282,6 +284,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [1480-running-sum-of-1d-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1480-running-sum-of-1d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2114-maximum-number-of-words-found-in-sentences) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
