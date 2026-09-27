@@ -215,6 +215,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1816-truncate-sentence](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2114-maximum-number-of-words-found-in-sentences) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Counting
 |  |
 | ------- |
@@ -427,6 +428,7 @@ Made with ❤️ using **CodeHub Sync**
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0234-palindrome-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -633,4 +635,9 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0005-longest-palindromic-substring) |
+
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
