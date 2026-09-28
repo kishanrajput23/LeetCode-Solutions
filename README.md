@@ -216,6 +216,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2114-maximum-number-of-words-found-in-sentences) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Counting
 |  |
 | ------- |
@@ -429,6 +430,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0094-binary-tree-inorder-traversal](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0234-palindrome-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -640,4 +642,5 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
