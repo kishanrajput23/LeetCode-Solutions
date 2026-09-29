@@ -287,6 +287,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1480-running-sum-of-1d-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1480-running-sum-of-1d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2114-maximum-number-of-words-found-in-sentences) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -451,6 +452,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3898-find-the-degree-of-each-vertex](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3898-find-the-degree-of-each-vertex) |
 | [1672-richest-customer-wealth](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2373-largest-local-values-in-a-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tree
 |  |
 | ------- |
@@ -549,6 +551,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1140-stone-game-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1510-stone-game-iv) |
 | [0005-longest-palindromic-substring](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0005-longest-palindromic-substring) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2267-check-if-there-is-a-valid-parentheses-string-path) |
 
 ## Game Theory
 |  |
@@ -643,4 +646,5 @@ Made with ❤️ using **CodeHub Sync**
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
