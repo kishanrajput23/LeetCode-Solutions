@@ -217,6 +217,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1614-maximum-nesting-depth-of-the-parentheses) |
+| [0020-valid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0020-valid-parentheses) |
 ## Counting
 |  |
 | ------- |
@@ -432,6 +433,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0234-palindrome-linked-list](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0234-palindrome-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1614-maximum-nesting-depth-of-the-parentheses) |
+| [0020-valid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0020-valid-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -647,4 +649,5 @@ Made with ❤️ using **CodeHub Sync**
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [0020-valid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
