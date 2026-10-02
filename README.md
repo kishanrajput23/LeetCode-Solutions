@@ -218,6 +218,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0020-valid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0022-generate-parentheses) |
 ## Counting
 |  |
 | ------- |
@@ -554,6 +555,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1510-stone-game-iv](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1510-stone-game-iv) |
 | [0005-longest-palindromic-substring](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0005-longest-palindromic-substring) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [0022-generate-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0022-generate-parentheses) |
 
 ## Game Theory
 |  |
@@ -627,6 +629,7 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1863-sum-of-all-subset-xor-totals) |
+| [0022-generate-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0022-generate-parentheses) |
 
 ## Combinatorics
 |  |
@@ -650,4 +653,5 @@ Made with ❤️ using **CodeHub Sync**
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0020-valid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
