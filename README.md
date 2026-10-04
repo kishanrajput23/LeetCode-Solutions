@@ -220,6 +220,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0020-valid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0678-valid-parenthesis-string) |
 ## Counting
 |  |
 | ------- |
@@ -437,6 +438,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0020-valid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -546,6 +548,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1927-sum-game](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2091-removing-minimum-and-maximum-from-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2037-minimum-number-of-moves-to-seat-everyone) |
+| [0678-valid-parenthesis-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0678-valid-parenthesis-string) |
 
 ## Dynamic Programming
 |  |
@@ -559,6 +562,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0022-generate-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0678-valid-parenthesis-string) |
 
 ## Game Theory
 |  |
@@ -658,4 +662,5 @@ Made with ❤️ using **CodeHub Sync**
 | [0020-valid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
