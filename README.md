@@ -222,6 +222,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0032-longest-valid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0921-minimum-add-to-make-parentheses-valid) |
 ## Counting
 |  |
 | ------- |
@@ -441,6 +442,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0032-longest-valid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
@@ -551,6 +553,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2091-removing-minimum-and-maximum-from-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2037-minimum-number-of-moves-to-seat-everyone) |
 | [0678-valid-parenthesis-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0921-minimum-add-to-make-parentheses-valid) |
 
 ## Dynamic Programming
 |  |
@@ -666,4 +669,5 @@ Made with ❤️ using **CodeHub Sync**
 | [0032-longest-valid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
