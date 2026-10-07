@@ -223,6 +223,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0678-valid-parenthesis-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0921-minimum-add-to-make-parentheses-valid) |
+| [0301-remove-invalid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0301-remove-invalid-parentheses) |
 ## Counting
 |  |
 | ------- |
@@ -526,6 +527,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0199-binary-tree-right-side-view](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0662-maximum-width-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3310-remove-methods-from-project) |
+| [0301-remove-invalid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0301-remove-invalid-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -642,6 +644,7 @@ Made with ❤️ using **CodeHub Sync**
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1863-sum-of-all-subset-xor-totals) |
 | [0022-generate-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0301-remove-invalid-parentheses) |
 
 ## Combinatorics
 |  |
