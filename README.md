@@ -224,6 +224,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0856-score-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0921-minimum-add-to-make-parentheses-valid) |
 | [0301-remove-invalid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0301-remove-invalid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1021-remove-outermost-parentheses) |
 ## Counting
 |  |
 | ------- |
@@ -444,6 +445,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0678-valid-parenthesis-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -673,4 +675,5 @@ Made with ❤️ using **CodeHub Sync**
 | [0678-valid-parenthesis-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
