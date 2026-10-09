@@ -225,6 +225,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0921-minimum-add-to-make-parentheses-valid) |
 | [0301-remove-invalid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0301-remove-invalid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Counting
 |  |
 | ------- |
@@ -446,6 +447,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0856-score-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
 |  |
 | ------- |
@@ -558,6 +560,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2037-minimum-number-of-moves-to-seat-everyone) |
 | [0678-valid-parenthesis-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
 
 ## Dynamic Programming
 |  |
@@ -676,4 +679,5 @@ Made with ❤️ using **CodeHub Sync**
 | [0856-score-of-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
