@@ -298,6 +298,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2778-sum-of-squares-of-special-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -347,6 +348,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3345-smallest-divisible-digit-product-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3345-smallest-divisible-digit-product-i) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1863-sum-of-all-subset-xor-totals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3483-unique-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
