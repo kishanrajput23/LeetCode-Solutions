@@ -186,6 +186,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3146-permutation-difference-between-two-strings](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3146-permutation-difference-between-two-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -299,6 +300,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
@@ -568,6 +570,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 
 ## Dynamic Programming
 |  |
@@ -650,6 +653,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2220-minimum-bit-flips-to-convert-number) |
 | [1486-xor-operation-in-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1720-decode-xored-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 
 ## Backtracking
 |  |
