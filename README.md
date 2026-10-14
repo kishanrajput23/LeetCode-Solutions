@@ -403,6 +403,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2235-add-two-integers](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2235-add-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1486-xor-operation-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3723-maximize-sum-of-squares-of-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -574,6 +575,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2333-minimum-sum-of-squared-difference](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3727-maximum-alternating-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3723-maximize-sum-of-squares-of-digits) |
 
 ## Dynamic Programming
 |  |
