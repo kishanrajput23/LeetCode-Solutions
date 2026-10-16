@@ -187,6 +187,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
 |  |
 | ------- |
@@ -302,6 +303,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2778-sum-of-squares-of-special-elements](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3727-maximum-alternating-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -696,4 +698,14 @@ Made with ❤️ using **CodeHub Sync**
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
+
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2916-subarrays-distinct-element-sum-of-squares-ii) |
+
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
