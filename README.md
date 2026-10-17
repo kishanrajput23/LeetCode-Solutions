@@ -188,6 +188,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -304,6 +305,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3727-maximum-alternating-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -332,6 +334,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3727-maximum-alternating-sum-of-squares) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
