@@ -306,6 +306,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3727-maximum-alternating-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sliding Window
 |  |
 | ------- |
@@ -409,6 +410,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1486-xor-operation-in-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1486-xor-operation-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3723-maximize-sum-of-squares-of-digits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Number Theory
 |  |
 | ------- |
@@ -502,6 +504,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0700-search-in-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2265-count-nodes-equal-to-average-of-subtree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -535,6 +538,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0662-maximum-width-of-binary-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0700-search-in-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2265-count-nodes-equal-to-average-of-subtree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -553,6 +557,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0098-validate-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0098-validate-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/0700-search-in-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -595,6 +600,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0022-generate-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 
 ## Game Theory
 |  |
@@ -676,6 +682,7 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1863-sum-of-all-subset-xor-totals) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 
 ## Geometry
 |  |
@@ -711,4 +718,24 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2916-subarrays-distinct-element-sum-of-squares-ii) |
+
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
