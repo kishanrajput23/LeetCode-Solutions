@@ -307,6 +307,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -336,6 +337,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2333-minimum-sum-of-squared-difference](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3727-maximum-alternating-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -369,6 +371,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0069-sqrtx](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0069-sqrtx) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2333-minimum-sum-of-squared-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
