@@ -741,4 +741,9 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
