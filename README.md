@@ -746,4 +746,5 @@ Made with ❤️ using **CodeHub Sync**
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
