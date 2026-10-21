@@ -229,6 +229,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0301-remove-invalid-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0301-remove-invalid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3863-minimum-operations-to-sort-a-string) |
 ## Counting
 |  |
 | ------- |
