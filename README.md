@@ -189,6 +189,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [0001-two-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0001-two-sum) |
 ## String
 |  |
 | ------- |
@@ -310,6 +311,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
+| [0001-two-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0001-two-sum) |
 ## Sliding Window
 |  |
 | ------- |
