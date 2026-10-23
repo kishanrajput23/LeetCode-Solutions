@@ -312,6 +312,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
 | [0001-two-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0001-two-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3644-maximum-k-to-sort-a-permutation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -677,6 +678,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1486-xor-operation-in-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1720-decode-xored-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3644-maximum-k-to-sort-a-permutation) |
 
 ## Backtracking
 |  |
