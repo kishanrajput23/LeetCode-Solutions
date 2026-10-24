@@ -232,6 +232,7 @@ Made with ❤️ using **CodeHub Sync**
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3863-minimum-operations-to-sort-a-string) |
 | [0008-string-to-integer-atoi](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0008-string-to-integer-atoi) |
+| [2409-count-days-spent-together](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2409-count-days-spent-together) |
 ## Counting
 |  |
 | ------- |
@@ -419,6 +420,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3723-maximize-sum-of-squares-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2409-count-days-spent-together) |
 ## Number Theory
 |  |
 | ------- |
