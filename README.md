@@ -233,6 +233,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3863-minimum-operations-to-sort-a-string) |
 | [0008-string-to-integer-atoi](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0008-string-to-integer-atoi) |
 | [2409-count-days-spent-together](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2409-count-days-spent-together) |
+| [0014-longest-common-prefix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0014-longest-common-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -314,6 +315,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2089-find-target-indices-after-sorting-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2089-find-target-indices-after-sorting-array) |
 | [0001-two-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0001-two-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3644-maximum-k-to-sort-a-permutation) |
+| [0014-longest-common-prefix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -755,4 +757,9 @@ Made with ❤️ using **CodeHub Sync**
 | ------- |
 | [0175-combine-two-tables](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0176-second-highest-salary) |
+
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
