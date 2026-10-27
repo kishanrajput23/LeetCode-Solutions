@@ -634,6 +634,7 @@ Made with ❤️ using **CodeHub Sync**
 | [2888-reshape-data-concatenate](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2888-reshape-data-concatenate) |
 | [2881-create-a-new-column](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2881-create-a-new-column) |
 | [2629-function-composition](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2629-function-composition) |
+| [3963-create-grid-with-exactly-one-path](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3963-create-grid-with-exactly-one-path) |
 
 ## Minimax
 |  |
