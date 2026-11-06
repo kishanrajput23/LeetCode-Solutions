@@ -317,6 +317,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3644-maximum-k-to-sort-a-permutation) |
 | [0014-longest-common-prefix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0014-longest-common-prefix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1389-create-target-array-in-the-given-order) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -424,6 +425,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3723-maximize-sum-of-squares-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2409-count-days-spent-together) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -465,6 +467,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3838-weighted-word-mapping](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3838-weighted-word-mapping) |
 | [1929-concatenation-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1929-concatenation-of-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1389-create-target-array-in-the-given-order) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -577,6 +580,7 @@ Made with ❤️ using **CodeHub Sync**
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/2333-minimum-sum-of-squared-difference) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Counting Sort
 |  |
 | ------- |
