@@ -316,6 +316,7 @@ Made with ❤️ using **CodeHub Sync**
 | [0001-two-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0001-two-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3644-maximum-k-to-sort-a-permutation) |
 | [0014-longest-common-prefix](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/0014-longest-common-prefix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1389-create-target-array-in-the-given-order) |
 ## Sliding Window
 |  |
 | ------- |
@@ -463,6 +464,7 @@ Made with ❤️ using **CodeHub Sync**
 | [3701-compute-alternating-sum](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3838-weighted-word-mapping) |
 | [1929-concatenation-of-array](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1929-concatenation-of-array) |
+| [1389-create-target-array-in-the-given-order](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1389-create-target-array-in-the-given-order) |
 ## Stack
 |  |
 | ------- |
