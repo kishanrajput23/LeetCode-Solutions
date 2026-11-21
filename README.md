@@ -23,7 +23,7 @@
 
 ---
 
-## 📖 About 
+## 📖 About
 
 This repository contains my accepted solutions to **LeetCode** coding problems.
 
