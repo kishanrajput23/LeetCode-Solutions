@@ -495,6 +495,7 @@ Made with ❤️ using **CodeHub Sync**
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kishanrajput23/LeetCode-Solutions/tree/master/Solutions/3898-find-the-degree-of-each-vertex) |
 | [3310-remove-methods-from-project](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/3310-remove-methods-from-project) |
+| [1791-find-center-of-star-graph](https://github.com/kishanrajput23/LeetCode-Solutions/tree/main/Solutions/1791-find-center-of-star-graph) |
 ## Matrix
 |  |
 | ------- |
